@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/dougl/AndroidStudioProjects/Trabalho/app/src/main/res/layout/activity_formulario.xml" value="0.25" />
+        <entry key="..\:/Users/dougl/AndroidStudioProjects/Trabalho/app/src/main/res/layout/activity_formulario.xml" value="0.22" />
         <entry key="..\:/Users/dougl/AndroidStudioProjects/Trabalho/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/dougl/AndroidStudioProjects/Trabalho/app/src/main/res/layout/content_main.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/dougl/AndroidStudioProjects/Trabalho/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/dougl/AndroidStudioProjects/Trabalho/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.35625" />
+        <entry key="..\:/Users/dougl/AndroidStudioProjects/Trabalho/app/src/main/res/mipmap-anydpi-v26/logo.xml" value="0.35625" />
       </map>
     </option>
   </component>
